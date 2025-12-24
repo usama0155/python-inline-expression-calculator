@@ -105,8 +105,8 @@ Sometimes "simple" projects teach the most.
 
 If you have ideas or improvements --- feel free to:
 
--   open an issue\
--   suggest enhancements\
+-   open an issue
+-   suggest enhancements
 -   fork and experiment
 
 I'm always learning & iterating 🚀

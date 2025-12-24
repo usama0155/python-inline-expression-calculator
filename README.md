@@ -7,9 +7,9 @@ result.
 
 Built to practice:
 
--   🧠 Logic building\
--   🔤 String parsing\
--   ⚙️ Control flow & operators\
+-   🧠 Logic building
+-   🔤 String parsing
+-   ⚙️ Control flow & operators
 -   🛡 Error handling (division-by-zero)
 
 This project is small --- but it's intentional. I wrote the logic myself
@@ -53,17 +53,17 @@ instead of relying on built-in eval functions.
 
 ## 🧩 How It Works (Logic Breakdown)
 
-1.  Takes full input as a single string\
-2.  Removes all spaces\
-3.  Loops through supported operators\
-4.  Splits the expression using the operator\
-5.  Converts operands to integers\
+1.  Takes full input as a single string
+2.  Removes all spaces
+3.  Loops through supported operators
+4.  Splits the expression using the operator
+5.  Converts operands to integers
 6.  Passes values to calculation function
 
 Keeps things:
 
--   modular\
--   readable\
+-   modular
+-   readable
 -   easy to extend later
 
 ------------------------------------------------------------------------
@@ -92,9 +92,9 @@ Planned upgrades:
 
 Instead of copying solutions, I wanted to:
 
--   break a problem into smaller steps\
--   practice parsing logic\
--   handle edge-cases manually\
+-   break a problem into smaller steps
+-   practice parsing logic
+-   handle edge-cases manually
 -   improve problem-solving skills
 
 Sometimes "simple" projects teach the most.
